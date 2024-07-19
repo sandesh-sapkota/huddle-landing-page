@@ -1,0 +1,18 @@
+{
+    "git.ignoreLimitWarning": true,
+    "git.confirmSync": false,
+    "git.enabled": false,
+    "git.enableStatusBarSync": false,
+    "git.ignoreLegacyWarning": false,
+    "git.ignoreMissingGitWarning": false,
+    "git.ignoreWindowsGit27Warning": false,
+    "git.rememberPostCommitCommand": false,
+    "git.rebaseWhenSync": false,
+    "git.showProgress": true,
+    "git.showInlineOpenFileAction": true,
+    "github.gitAuthentication": true,
+    "git.ignoreRebaseWarning": false,
+    "git.pullTags": true,
+    "git.decorations.enabled": true,
+    "git.optimisticUpdate": true
+}
